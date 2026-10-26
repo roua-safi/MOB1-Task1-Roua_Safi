@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Quadrant_RS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <color name="quadrant_1_bg">#4A2E47</color> <!-- Dark Red -->
+        <color name="quadrant_2_bg">#8C6D80</color> <!-- Dark Orange -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>

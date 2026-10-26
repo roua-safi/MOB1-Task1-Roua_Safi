@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quadrant_RS</string>
+    <string name="emerald_green">Emerald Green.</string>
+    <string name="a_vibrant_deep_shade_reminiscent_of_lush_tropical_foliage_and_precious_gemstones">A vibrant, deep shade reminiscent of lush tropical foliage and precious gemstones.</string>
+    <string name="warm_terracotta">Warm Terracotta</string>
+    <string name="an_earthy_blend_of_muted_red_and_clay_orange_that_evokes_sun_baked_pottery_and_desert_sunsets">An earthy blend of muted red and clay orange that evokes sun-baked pottery and desert sunsets.</string>
+    <string name="oceanic_teal">Oceanic Teal</string>
+    <string name="a_rich_fusion_of_deep_blue_and_subtle_green_that_captures_the_mysterious_depths_of_open_waters">A rich fusion of deep blue and subtle green that captures the mysterious depths of open waters</string>
+    <string name="soft_amber">Soft Amber</string>
+    <string name="a_glowing_golden_yellow_hue_inspired_by_honey_and_late_afternoon_light">A glowing, golden-yellow hue inspired by honey and late-afternoon light</string>
+</resources>
