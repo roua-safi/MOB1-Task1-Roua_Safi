@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskDone_RS</string>
+    <string name="all_work_is_done">All Work Is Done !</string>
+    <string name="nice">Nice !</string>
+</resources>
